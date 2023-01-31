@@ -3,7 +3,7 @@
 }
 
 .site-header {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: #393e46;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
@@ -53,4 +53,12 @@
   .flex-md-equal > * {
     flex: 1;
   }
+}
+
+/* font1 */
+.font1 {
+  font-family: 'Poppins', sans-serif;
+}
+.font2 {
+  font-family: 'Comfortaa', cursive;
 }
