@@ -3,7 +3,7 @@
 }
 
 .site-header {
-  background-color: #393e46;
+  background-color: #181d31;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
@@ -61,4 +61,17 @@
 }
 .font2 {
   font-family: 'Comfortaa', cursive;
+}
+/* cc = color custom */
+.cc1 {
+  background-color: #678983;
+}
+.cc2 {
+  background-color: #e6ddc4;
+}
+.cc3 {
+  background-color: #f0e9d2;
+}
+.cc4 {
+  background-color: #181d31;
 }
